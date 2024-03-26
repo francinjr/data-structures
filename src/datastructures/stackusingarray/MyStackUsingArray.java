@@ -1,4 +1,4 @@
-package datastructures.stack;
+package datastructures.stackusingarray;
 
 public class MyStackUsingArray<T> implements MyStackInterface<T> {
 

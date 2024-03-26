@@ -1,4 +1,4 @@
-package datastructures.stack;
+package datastructures.stackusingarray;
 
 public interface MyStackInterface<E> {
     void push(E item);

@@ -1,6 +1,6 @@
-package datastructures.stack.main;
+package datastructures.stackusingarray.main;
 
-import datastructures.stack.MyStackUsingArray;
+import datastructures.stackusingarray.MyStackUsingArray;
 
 public class Main {
     public static void main(String[] args) {
