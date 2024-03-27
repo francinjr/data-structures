@@ -1,4 +1,4 @@
-package queueusingarray;
+package datastructures.queueusingarray;
 
 public class MyQueueUsingArray<T> implements MyQueueInterface<T> {
 

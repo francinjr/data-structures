@@ -1,4 +1,4 @@
-package queueusingarray;
+package datastructures.queueusingarray;
 
 public interface MyQueueInterface<T> {
     void add(T number) throws MyQueueException;

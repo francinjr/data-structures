@@ -1,7 +1,7 @@
-package queueusingarray.main;
+package datastructures.queueusingarray.main;
 
-import queueusingarray.MyQueueInterface;
-import queueusingarray.MyQueueUsingArray;
+import datastructures.queueusingarray.MyQueueInterface;
+import datastructures.queueusingarray.MyQueueUsingArray;
 
 public class Main {
 	public static void main(String[] args) {

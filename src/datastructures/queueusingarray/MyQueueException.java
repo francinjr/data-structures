@@ -1,4 +1,4 @@
-package queueusingarray;
+package datastructures.queueusingarray;
 
 public class MyQueueException extends RuntimeException {
 	private static final long serialVersionUID = 1L;
