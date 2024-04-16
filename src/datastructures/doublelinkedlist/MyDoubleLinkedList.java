@@ -216,7 +216,6 @@ public class MyDoubleLinkedList<E> implements MyLinkedListInterface<E> {
 		}
 	}
 
-	
 	@Override
 	public void show() {
 		Node p = head;
@@ -233,7 +232,6 @@ public class MyDoubleLinkedList<E> implements MyLinkedListInterface<E> {
 		System.out.println("\nTamanho = " + size);
 	}
 
-	
 	@Override
 	public void showReverse() {
 		Node p = tail;
